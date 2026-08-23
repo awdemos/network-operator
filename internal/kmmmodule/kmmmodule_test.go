@@ -36,7 +36,6 @@ import (
 	"context"
 	"fmt"
 
-	//"gopkg.in/yaml.v3"
 	"os"
 
 	amdv1alpha1 "github.com/ROCm/network-operator/api/v1alpha1"
